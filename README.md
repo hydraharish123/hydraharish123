@@ -25,8 +25,6 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **HTML, CSS, C/C++**
 
-- 📫 How to reach me **psharish2712@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codeforces.com/profile/hydraharish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="hydraharish" height="30" width="40" /></a>
@@ -39,6 +37,4 @@ Here are some ideas to get you started:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hydraharish123&show_icons=true&locale=en&layout=compact" alt="hydraharish123" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hydraharish123&show_icons=true&locale=en" alt="hydraharish123" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hydraharish123&" alt="hydraharish123" /></p>
 
