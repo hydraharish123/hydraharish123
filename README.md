@@ -52,9 +52,6 @@
 <a href="https://www.leetcode.com/hydraharish123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hydraharish123" height="30" width="40" /></a>
 </p>
 
-###
-
-<img src="https://raw.githubusercontent.com/hydraharish123/hydraharish123/output/snake.svg" alt="Snake animation" />
 
 ###
 
