@@ -78,8 +78,10 @@ My expertise in bioinformatics and ML includes working with various data science
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=hydraharish123&show_icons=true&theme=tokyonight" alt="Harish's GitHub Stats"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hydraharish123&layout=compact&theme=tokyonight" alt="Top Languages"></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hydraharish123&theme=tokyonight" alt="Top Languages by Repos"></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hydraharish123&theme=tokyonight" alt="Top Languages by Commits"></td>
+    
+
   </tr>
 </table>
 
