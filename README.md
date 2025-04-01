@@ -6,9 +6,9 @@
 
 ## 🔥 **About Me**  
 - 🎓 **BTech Student** in **Biotechnology & Bioinformatics** at **IIT Hyderabad**  
-- 🧬 **Researching** Horizontal Gene Transfer (HGT) at **Biological Networks & Systems Biology Lab**  
+- 🧬 **Researching** Lung Infections at **Biological Networks & Systems Biology Lab**  
 - 💡 Exploring **ML, and Computational Biology**  
-- 🌱 **Currently Learning**: React.js, Flask, Optimization Techniques  
+- 🌱 **Currently Learning**: NextJS  
 - 🎯 **Goal**: Leverage **AI & Biology** for impactful innovations  
 
 ---
