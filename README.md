@@ -1,4 +1,4 @@
-## 🚀 **Welcome to My GitHub!**  [![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/hydraharish123&count_bg=%231E90FF&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Profile%20Views&edge_flat=false)](https://github.com/hydraharish123)
+## 🚀 **Welcome to My GitHub!** 
 
 **I'm P S Harish**, a **developer, and problem solver** passionate about **machine learning, bioinformatics, and web development**.  
 
@@ -8,7 +8,7 @@
 - 🎓 **BTech Student** in **Biotechnology & Bioinformatics** at **IIT Hyderabad**  
 - 🧬 **Researching** Lung Infections at **Biological Networks & Systems Biology Lab**  
 - 💡 Exploring **ML, and Computational Biology**  
-- 🌱 **Currently Learning**: NextJS  
+- 🌱 **Currently Learning**: NodeJS  
 - 🎯 **Goal**: Leverage **AI & Biology** for impactful innovations  
 
 ---
