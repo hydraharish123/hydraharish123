@@ -8,7 +8,7 @@
 - 🎓 **BTech Student** in **Biotechnology & Bioinformatics** at **IIT Hyderabad**  
 - 🧬 **Researching** Lung Infections at **Biological Networks & Systems Biology Lab**  
 - 💡 Exploring **ML, and Computational Biology**  
-- 🌱 **Currently Learning**: NodeJS  
+- 🌱 **Currently Learning**: NodeJS and MongoDB
 - 🎯 **Goal**: Leverage **AI & Biology** for impactful innovations  
 
 ---
