@@ -1,30 +1,30 @@
-## 🚀 **Welcome to My GitHub!** 
+## **Welcome to My GitHub!** 
 
 **I'm P S Harish**, a **developer, and problem solver** passionate about **machine learning, bioinformatics, and web development**.  
 
 ---
 
-## 🔥 **About Me**  
-- 🎓 **BTech Student** in **Biotechnology & Bioinformatics** at **IIT Hyderabad**  
-- 🧬 **Researching** Lung Infections at **Biological Networks & Systems Biology Lab**  
-- 💡 Exploring **ML, and Computational Biology**  
-- 🌱 **Currently Learning**: Reinforcement Learning 
-- 🎯 **Goal**: Leverage **AI & Biology** for impactful innovations  
+## **About Me**  
+- **BTech Student** in **Biotechnology & Bioinformatics** at **IIT Hyderabad**  
+- **Researching** Lung Infections at **Biological Networks & Systems Biology Lab**  
+- Exploring **ML, and Computational Biology**  
+- **Currently Learning**: Reinforcement Learning 
+- **Goal**: Leverage **AI & Biology** for impactful innovations  
 
 ---
 
-## 🎯 **Interests**  
+## **Interests**  
 
-- 🔬 **Bioinformatics & Computational Biology**  
-- 🤖 **Machine Learning**  
-- 💻 **Web Development**  
-- ⚡ **Football & Programming**  
+- **Bioinformatics & Computational Biology**  
+- **Machine Learning**  
+- **Web Development**  
+- **Football & Programming**  
 
 ---
 
-## 🛠 **Technology Stack**  
+## **Technology Stack**  
 
-### 🚀 **Languages**
+### **Languages**
 
 I work with multiple programming languages that enable me to develop applications, analyze data, and build ML models.
 
@@ -41,7 +41,7 @@ I work with multiple programming languages that enable me to develop application
 </table>
 
 
-### 🔧 **Frameworks & Tools**
+### **Frameworks & Tools**
 
 I use a range of frameworks and tools for web development, backend programming, and cloud solutions.
 
@@ -67,7 +67,7 @@ I use a range of frameworks and tools for web development, backend programming, 
   </tr>
 </table>
 
-### 📊 **Data Science & Bioinformatics**
+### **Data Science & Bioinformatics**
 
 My expertise in bioinformatics and ML includes working with various data science libraries.
 
@@ -86,27 +86,32 @@ My expertise in bioinformatics and ML includes working with various data science
 </table>
 
 
-## 📊 **GitHub Stats**  
+## **GitHub Stats**  
 
-<table>
-  <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hydraharish123&theme=tokyonight" alt="Top Languages by Repos"></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hydraharish123&theme=tokyonight" alt="Top Languages by Commits"></td>
-    
-
-  </tr>
-</table>
+![](https://github-readme-stats.vercel.app/api?username=hydraharish123&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=hydraharish123&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hydraharish123&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
-## 🏆 **Competitive Programming**  
+## **Competitive Programming**  
 I enjoy problem-solving.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/hydraharish123/)  
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/HydraHarish)  
 
----
 
+
+
+## My Trophies
+![](https://github-profile-trophy.vercel.app/?username=hydraharish123&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### Quote of the Day
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=hydraharish123&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
