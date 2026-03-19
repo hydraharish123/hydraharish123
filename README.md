@@ -47,9 +47,7 @@
 
 ## Achievements  
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hydraharish123&theme=tokyonight&no-frame=true&margin-w=10"/>
-</p>
+![](https://github-profile-trophy.vercel.app/?username=hydraharish123&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
 ## Competitive Programming  
