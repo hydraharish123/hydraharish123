@@ -38,10 +38,6 @@
 
 
 
-## Achievements  
-
-![](https://github-profile-trophy.vercel.app/?username=hydraharish123&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 
 ## Competitive Programming  
 
