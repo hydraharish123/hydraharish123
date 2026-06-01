@@ -36,13 +36,6 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch"/>
 </p>
 
-## GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hydraharish123&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=hydraharish123&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hydraharish123&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
 
 
 ## Achievements  
