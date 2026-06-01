@@ -38,19 +38,6 @@
 
 
 
-
-## Competitive Programming  
-
-<p align="center">
-  <a href="https://leetcode.com/u/hydraharish123/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
-  </a>
-  <a href="https://codeforces.com/profile/HydraHarish">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces"/>
-  </a>
-</p>
-
-
 ## Quote of the Day  
 
 <p align="center">
