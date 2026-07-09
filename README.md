@@ -11,31 +11,10 @@
 
 ## Tech Stack  
 
-### Languages
+### Languages and Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,go,html,css" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,react,redux,nodejs,express,flask,mongodb,firebase,supabase,mysql,git,linux,python,r" />
 </p>
-
-### Frameworks & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,redux,nodejs,express,flask,mongodb,firebase,supabase,mysql,git,linux" />
-</p>
-
-
-### Data Science & Bioinformatics
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat"/>
-  <img src="https://img.shields.io/badge/Seaborn-008080?style=flat"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch"/>
-</p>
-
 
 
 ## Quote of the Day  
